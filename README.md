@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **camgrafiman/camgrafiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/camgrafiman"><img src="https://api.daily.dev/devcards/2e884c990b974f68b6c539fa5c42f9a2.png?r=4ji" width="400" alt="Alejandro Gallego's Dev Card"/></a>
+
