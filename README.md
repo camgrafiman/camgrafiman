@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://app.daily.dev/camgrafiman"><img src="[https://api.daily.dev/devcards/2e884c990b974f68b6c539fa5c42f9a2.png?r=4ji](https://github.com/camgrafiman/camgrafiman/blob/main/devcard.svg)" width="400" alt="Alejandro Gallego's Dev Card"/></a>
+<a href="https://app.daily.dev/camgrafiman"><img src="https://github.com/camgrafiman/camgrafiman/blob/main/devcard.svg" width="400" alt="Alejandro Gallego's Dev Card"/></a>
 
